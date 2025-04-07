@@ -81,7 +81,7 @@ mv .env.template .env.local
 Use Yarn to install all dependencies.
 
 ```shell
-yarn
+npm install
 ```
 
 ### Start developing
@@ -89,7 +89,7 @@ yarn
 You are now ready to start up your project.
 
 ```shell
-yarn dev
+npm run dev
 ```
 
 ### Open the code and start customizing
